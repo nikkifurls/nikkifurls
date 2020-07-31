@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Nicole.
+# 👩‍💻 Hi! I'm Nicole 
 I'm an animal protector and software developer on a pursuit of equality, compassion, and justice for all.
 
 <!--
@@ -60,7 +60,7 @@ These are my favorite tech stack for building all kinds of stuff.
 
 ---
 
-### 📨 Contact Me
+### 💬 Contact Me
 
 * Email: [hi@nicolefurlan.com](hi@nicolefurlan.com)
 * Twitter: [@nicolemfurlan](https://twitter.com/nicolemfurlan)
