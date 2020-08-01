@@ -44,6 +44,6 @@ Patreon: [@nicolefurlan](https://patreon.com/nicolefurlan)
 
 ### 💬 Contact Me
 
-Email: [hi@nicolefurlan.com](hi@nicolefurlan.com)
+Email: [hi@nicolefurlan.com](mailto:hi@nicolefurlan.com)
 
 Twitter: [@nicolemfurlan](https://twitter.com/nicolemfurlan)
