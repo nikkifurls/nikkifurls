@@ -36,7 +36,7 @@ Dog Safe Foods: [dogsafefoods.com](https://dogsafefoods.com)
 
 ### 💰 Support Me
 
-PayPal: [@nicolefurlan](https://paypal.com/nicolefurlan)
+PayPal: [@nicolefurlan](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FACW2AMWGLZ6S&source=url)
 
 Patreon: [@nicolefurlan](https://patreon.com/nicolefurlan)
 
