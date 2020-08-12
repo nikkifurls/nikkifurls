@@ -3,8 +3,6 @@
 # 👋 Hi! I'm Nicole
 I'm an animal protector and software developer on a pursuit of equality, compassion, and justice for all.
 
----
-
 ### 👩‍💻 Technologies
 
 <p align="left">
@@ -21,21 +19,15 @@ I'm an animal protector and software developer on a pursuit of equality, compass
 <img src="https://devicons.github.io/devicon/devicon.git/icons/slack/slack-original.svg" alt="slack" width="20" height="20"/>
 </p>
 
----
-
 ### 🗃️ Projects
 
 **Dog Safe Foods:** [dogsafefoods.com](https://dogsafefoods.com)
-
----
 
 ### 💰 Support Me
 
 **PayPal:** [@nicolefurlan](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FACW2AMWGLZ6S&source=url)
 
 **Patreon:** [@nicolefurlan](https://patreon.com/nicolefurlan)
-
----
 
 ### 💬 Contact Me
 
