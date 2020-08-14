@@ -23,6 +23,8 @@ I'm an animal protector and software developer on a pursuit of equality, compass
 
 **Dog Safe Foods:** [dogsafefoods.com](https://dogsafefoods.com)
 
+**Simple PWA:** [simplepwa.com](https://simplepwa.com)
+
 ### 💰 Support Me
 
 **PayPal:** [@nicolefurlan](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FACW2AMWGLZ6S&source=url)
