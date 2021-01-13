@@ -23,6 +23,8 @@ I'm an animal protector and software developer on a pursuit of equality, compass
 
 **Dog Safe Foods:** [dogsafefoods.com](https://dogsafefoods.com)
 
+**Cat Safe Foods:** [catsafefoods.com](https://catsafefoods.com)
+
 **Simple PWA:** [simplepwa.com](https://simplepwa.com)
 
 ### 💰 Support Me
