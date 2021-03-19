@@ -29,7 +29,7 @@ I'm an animal protector and software developer on a pursuit of equality, compass
 
 ### 💰 Support Me
 
-**PayPal:** [@nicolefurlan](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FACW2AMWGLZ6S&source=url)
+**PayPal:** [@nicolefurlan](https://www.paypal.com/donate?hosted_button_id=M7MMF3EWQTLKG)
 
 **Patreon:** [@nicolefurlan](https://patreon.com/nicolefurlan)
 
