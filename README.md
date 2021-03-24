@@ -27,6 +27,8 @@ I'm an animal protector and software developer on a pursuit of equality, compass
 
 **Simple PWA:** [simplepwa.com](https://simplepwa.com)
 
+**PWA Generator:** [github.com/nikkifurls/pwagenerator](https://github.com/nikkifurls/pwagenerator) (in progress!)
+
 ### 💰 Support Me
 
 **PayPal:** [@nicolefurlan](https://www.paypal.com/donate?hosted_button_id=M7MMF3EWQTLKG)
