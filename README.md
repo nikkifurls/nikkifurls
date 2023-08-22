@@ -11,7 +11,6 @@ I'm an animal protector and software developer on a pursuit of equality, compass
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Composer](https://img.shields.io/badge/composer-brown?style=for-the-badge)
 ![Gutenberg](https://img.shields.io/badge/gutenberg-black?style=for-the-badge&logo=gutenberg)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Jamstack](https://img.shields.io/badge/jamstack-f0047f?style=for-the-badge&logo=jamstack)
