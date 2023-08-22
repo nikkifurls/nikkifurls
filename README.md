@@ -1,4 +1,4 @@
-![nicole](https://nicolefurlan.com/share.jpg)
+![nicole](https://nicolefurlan.com/img/share.jpg)
 
 # 👋 Hi! I'm Nicole
 I'm an animal protector and software developer on a pursuit of equality, compassion, and justice for all.
